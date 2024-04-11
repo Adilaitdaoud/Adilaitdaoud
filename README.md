@@ -1,4 +1,4 @@
-![badmath]([https://img.shields.io/github/languages/top/lernantino/badmath](https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg))
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg)
 <h1 align="center">Hi 👋, I'm Adil Ait Daoud</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
