@@ -1,4 +1,4 @@
-[!MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)
+![MasterHead]([https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg](https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg))
 <h1 align="center">Hi 👋, I'm Adil Ait Daoud</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
