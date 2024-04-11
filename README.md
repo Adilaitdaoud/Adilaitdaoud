@@ -1,4 +1,3 @@
-<img src="https://camo.githubusercontent.com/1064b72b63ad9e34d84152746d00927968ed1d26f69cd9b969bb736d5a09c318/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b414d494e452b454c2b4b484159415249213b" data-canonical-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Adil+Ait+Daoud!;" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Adil Ait Daoud</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
