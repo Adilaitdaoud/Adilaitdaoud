@@ -4,29 +4,16 @@
   <img height="200" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
-###
-
-<br clear="both">
 
 <h1 align="center">Hello I am Adil Ait daoud</h1>
 
-###
-
-<br clear="both">
 
 <p align="center">A passionate software developer from Morocco</p>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Adilaitdaoud.Adilaitdaoud&left_color=darkmagenta&right_color=orangered&left_text=visitors"  />
 </div>
-
-###
-
-<br clear="both">
 
 <h3 align="center">Connect with me :</h3>
 
@@ -65,6 +52,7 @@
 
 ###
 
+<br clear="both">
 <br clear="both">
 
 <div align="center">
