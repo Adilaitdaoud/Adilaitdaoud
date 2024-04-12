@@ -2,7 +2,9 @@
 <h3 align="center">A passionate software developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilaitdaoud&label=Profile%20views&color=0e75b6&style=flat" alt="adilaitdaoud" /> </p>
-
+<div align="right">
+  <img height="200" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"  />
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilaitdaoud" alt="adilaitdaoud" /></a> </p>
 
 - 🔭 I’m currently working on [Identity Server Application](https://github.com/Adilaitdaoud/IdentityApp-Dotnet-WebApi.git)
